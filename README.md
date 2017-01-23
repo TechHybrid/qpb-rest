@@ -1,2 +1,2 @@
 # QPB-ReST
-Rest api for CRUD of QPB
+REST API for CRUD of QPB
